@@ -1,0 +1,39 @@
+{
+  "updated_at": "2026-08-29T07:54:08.327Z",
+  "source_name": "Air4Thai（タイ公害管理局 公式API）",
+  "source_url": "https://air4thai.pcd.go.th/services/getNewAQI_JSON.php",
+  "stations": [
+    {
+      "station_id": "35t",
+      "label": "City Hall, Chiangmai（チェンマイ市役所）",
+      "area_th": "ต.ช้างเผือก อ.เมือง, เชียงใหม่",
+      "area_en": "Chang Phueak, Meuang, Chiang Mai",
+      "lat": 18.840732,
+      "lon": 98.96978,
+      "date": "2026-08-29",
+      "time": "14:00",
+      "pm25_value": 14.3,
+      "aqi": 24,
+      "aqi_level": {
+        "label": "良好",
+        "labelJa": "良好（安全）"
+      }
+    },
+    {
+      "station_id": "36t",
+      "label": "Yupparaj Wittayalai School（ユッパラート・ウィッタヤーライ校）",
+      "area_th": "ต.ศรีภูมิ อ.เมือง, เชียงใหม่",
+      "area_en": "Si Phum, Meuang, Chiang Mai",
+      "lat": 18.7909333,
+      "lon": 98.99,
+      "date": "2026-08-29",
+      "time": "14:00",
+      "pm25_value": 9.2,
+      "aqi": 15,
+      "aqi_level": {
+        "label": "良好",
+        "labelJa": "良好（安全）"
+      }
+    }
+  ]
+}
