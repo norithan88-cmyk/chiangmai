@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:52:13.551Z",
+  "updated_at": "2026-09-29T01:08:39.267Z",
   "source_name": "Air4Thai（タイ公害管理局 公式API）",
   "source_url": "https://air4thai.pcd.go.th/services/getNewAQI_JSON.php",
   "stations": [
@@ -10,10 +10,10 @@
       "area_en": "Chang Phueak, Meuang, Chiang Mai",
       "lat": 18.840732,
       "lon": 98.96978,
-      "date": "2026-09-28",
-      "time": "06:00",
-      "pm25_value": 8.5,
-      "aqi": 14,
+      "date": "2026-09-29",
+      "time": "07:00",
+      "pm25_value": 9,
+      "aqi": 15,
       "aqi_level": {
         "label": "良好",
         "labelJa": "良好（安全）"
@@ -26,10 +26,10 @@
       "area_en": "Si Phum, Meuang, Chiang Mai",
       "lat": 18.7909333,
       "lon": 98.99,
-      "date": "2026-09-28",
-      "time": "06:00",
-      "pm25_value": 7.5,
-      "aqi": 13,
+      "date": "2026-09-29",
+      "time": "07:00",
+      "pm25_value": 6.4,
+      "aqi": 11,
       "aqi_level": {
         "label": "良好",
         "labelJa": "良好（安全）"
